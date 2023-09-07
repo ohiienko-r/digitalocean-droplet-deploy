@@ -37,5 +37,12 @@ ____
 ![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8e2211e0-1ef0-465a-8cc4-3ec5e347cfea)
 
 6. Вуаля! Тицяємо в крєате дроплєт і думаємо про життя поки воно там шось собі думає.
+
+7. Покурили? Тепер треба і заглянуть на наш дроплєт і запустить його консоль:
+
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8bac55eb-cfb5-435b-a2ba-000b20e1b823)
+
+8. Сміливо клікаємо по лонч дроплєт консолє
+
 ____ 
 
