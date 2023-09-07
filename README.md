@@ -42,7 +42,9 @@ ____
 
 ![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8bac55eb-cfb5-435b-a2ba-000b20e1b823)
 
-8. Сміливо клікаємо по лонч дроплєт консолє
+8. Сміливо клікаємо по лонч дроплєт консолє. Мої конгратуляції, ми єбать які молодці з вами: 
+
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8651f828-a82f-4b16-a56e-159cfd76b128)
 
 ____ 
 
