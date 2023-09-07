@@ -41,7 +41,8 @@ ____
 
 7. Покурили? Тепер треба і заглянуть на наш дроплєт і запустить його консоль:
 
-![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8bac55eb-cfb5-435b-a2ba-000b20e1b823)
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/cf23648b-1300-472a-86cc-cad89d512bac)
+
 
 8. Сміливо клікаємо по лонч дроплєт консолє. Мої конгратуляції, ми єбать які молодці з вами: 
 
