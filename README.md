@@ -46,7 +46,8 @@ ____
 
 8. Сміливо клікаємо по лонч дроплєт консолє. Мої конгратуляції, ми єбать які молодці з вами: 
 
-![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/a0c701a4-9a62-4db0-b4bb-98f482922f63)
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/275b6948-c539-4044-b44e-37366fa0bd88)
+
 
 
 ____ 
