@@ -136,7 +136,7 @@ proxy_cache_bypass $http_upgrade;
 
 Також нам треба вказати в тому ж конфігу ваш домєн для апки, якщо нема, то вказуємо пока шо просто айпішнік любімого дроплєта після директиви `server_name`. І в результаті оце все діло має мати наступний вигляд: 
 ```
-server_name yourdomain.com www.yourdomain.com;
+server_name yourdomain.com;
 
     location / {
         proxy_pass http://localhost:5000; #порт звісно вказуємо свій
