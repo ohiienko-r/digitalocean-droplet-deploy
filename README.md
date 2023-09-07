@@ -44,7 +44,8 @@ ____
 
 8. Сміливо клікаємо по лонч дроплєт консолє. Мої конгратуляції, ми єбать які молодці з вами: 
 
-![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/8651f828-a82f-4b16-a56e-159cfd76b128)
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/a0c701a4-9a62-4db0-b4bb-98f482922f63)
+
 
 ____ 
 ### Крок третій - Node/NPM
