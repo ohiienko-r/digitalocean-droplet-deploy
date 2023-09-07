@@ -14,7 +14,8 @@ ____
 ### Крок другий - Droplet
 0. Після реєстрації ви отримаєте велкам бонус (звісно якшо це перша ваша реєстрація) на 60 днів і на цей час про бабосіки можна не паритись). Отже, тицяємо у правому верхньому куті на кніпочку крєате та обираємо "Droplets":
 
-![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/08a82a6b-7616-408f-ac1a-4a940b06180e)
+![image](https://github.com/ohiienko-r/digitalocean-droplet-deploy/assets/109099364/a0ee3315-2e1a-4475-963e-6135834dd991)
+
 
 1.Обираємо локацію цього чуда:
 
