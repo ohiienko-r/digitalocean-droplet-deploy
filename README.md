@@ -71,7 +71,7 @@ cd yourproject
 npm install
 
 #Сєктор пріз на барабані!
-npm start (or whatever your start command)
+npm start (або яка там в вас команда)
 
 #Зупиняєм все це діло, бо справ ще по самі гланди
 ctrl+C
